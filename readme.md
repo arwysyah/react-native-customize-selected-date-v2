@@ -35,8 +35,7 @@ https://github.com/hungdev/react-native-customize-selected-date
 </p>
 
 <p align="center">
-  <img src="cal.gif
-            " width=250 height=300/>
+  <img src="cal.gif" width=250 height=300/>
 </p>
 
 # Install
