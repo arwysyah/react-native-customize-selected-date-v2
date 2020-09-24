@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "react-native-customize-selected-date@1.0.1",
+      "/Users/arwysyahputrasiregar/Documents/otomoApp"
+    ]
+  ],
+  "_from": "react-native-customize-selected-date@1.0.1",
+  "_id": "react-native-customize-selected-date@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-zGPuRwV0B26sjKSgNIiYoNwGLelHgbehJvGH2HH+awgawDz11y6f+oyOWlQtQ6DFKBHohiDvJK0nbE79+caCEA==",
+  "_location": "/react-native-customize-selected-date",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-customize-selected-date@1.0.1",
+    "name": "react-native-customize-selected-date",
+    "escapedName": "react-native-customize-selected-date",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-customize-selected-date/-/react-native-customize-selected-date-1.0.1.tgz",
+  "_spec": "1.0.1",
+  "_where": "/Users/arwysyahputrasiregar/Documents/otomoApp",
+  "author": {
+    "name": "hung vu"
+  },
+  "bugs": {
+    "url": "https://github.com/hungdev/react-native-customize-selected-date/issues"
+  },
+  "dependencies": {},
+  "description": "customize selected date calendar",
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "https://github.com/hungdev/react-native-customize-selected-date#readme",
+  "keywords": [
+    "customize",
+    "selected",
+    "date",
+    "calendar",
+    "event"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-customize-selected-date",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungdev/react-native-customize-selected-date.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
