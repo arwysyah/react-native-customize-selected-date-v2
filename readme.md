@@ -110,8 +110,6 @@ export default class App extends Component {
               notCurrentDayOfMonthStyle={{color: '#adadad'}}
               currentDayStyle={{color: '#FA4B41', fontWeight: 'bold'}}
               dateSelectedWarpDayStyle={{backgroundColor: 'red'}}
-              // warpDayStyle={{backgroundColor:'white'}}
-              date={this.state.time}
               changeDate={date => this.onChangeDate(date)}
               format="YYYY-MM-DD"
               renderChildDay={day => this.renderChildDay(day)}

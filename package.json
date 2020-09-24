@@ -14,10 +14,12 @@
     "calendar",
     "react-native",
     "date",
-    "javascript"
+    "javascript",
+    "time",
+    "schedule"
   ],
   "author": "arwy syahputra siregar",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/arwysyah/react-native-customize-selected-date-v2/issues"
   },
