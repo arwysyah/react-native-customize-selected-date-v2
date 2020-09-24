@@ -5,6 +5,8 @@ Thanks for the author of React Native Customize Selected Date.
 previous module download here!
 https://github.com/hungdev/react-native-customize-selected-date
 
+
+
 <p align="center">
   <a href="https://reactjs.org/">
     <img
@@ -12,11 +14,17 @@ https://github.com/hungdev/react-native-customize-selected-date
       src="https://i.udemycdn.com/course/750x422/1049092_8c52_2.jpg"
       width="200"
     />
+    
   </a>
+  
 </p>
+
 
 </h1>
 
+Github : https://github.com/arwysyah/react-native-customize-selected-date-v2
+
+NPM : https://www.npmjs.com/package/react-native-customize-selected-date-v2
 <br/>
 
 <br/>
