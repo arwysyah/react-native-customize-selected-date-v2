@@ -60,8 +60,7 @@ npm install react-native-customize-selected-date-v2 --save
 
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View } from 'react-native';
-import DateTime from 'react-native-customize-selected-date'
-import _ from 'lodash'
+import DateTime from 'react-native-customize-selected-date-v2'
 
 export default class App extends Component {
   constructor(props) {
@@ -70,7 +69,6 @@ export default class App extends Component {
       date:[]
     }
   }
-
   onChangeDate(date) {
     // alert(date);
     const today = new Date();
