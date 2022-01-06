@@ -165,7 +165,7 @@ notCurrentDayOfMonthStyle | PropTypes.object | Style for text when day is not cu
 
 
 
-# Pull Request
+# Note
 
 Pull requests are welcome!
 
